@@ -1,0 +1,12 @@
+{
+  "name": "accounts",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/federation": "latest",
+    "apollo-server": "latest",
+    "graphql": "latest",
+    "nodemon": "^2.0.19"
+  }
+}
